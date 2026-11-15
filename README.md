@@ -1,6 +1,6 @@
 # GitMind AI Mind Mapping and Visual Planning
 
-[![GET GitMind](https://img.shields.io/badge/GET-GitMind-7C3AED?style=plastic&labelColor=3B0764)](SILKA)
+[![GET GitMind](https://img.shields.io/badge/GET-GitMind-7C3AED?style=plastic&labelColor=3B0764)](https://github.com/gitmind-mind-map/gitmind-ai/releases/)
 
 GitMind combines mind mapping, diagrams and AI-assisted summaries in a shared visual workspace.
 Use gitmind ai to turn source material into a draft structure, then refine the result around your own purpose.
